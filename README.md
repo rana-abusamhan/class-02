@@ -1,5 +1,5 @@
 # class-02
 
-## Branches 
+## Branches and github pages
 
 ## Hello from the first branch
